@@ -9,3 +9,4 @@ This repository contains the code for an AWS Lambda function. To use:
 5) Copy the URL for your API Gateway resource. 
 6) Use the [slash command API from slack](https://api.slack.com/slash-commands) to set a slash command that will POST to your API Gateway URL. 
 7) Profit! 
+<img width="609" alt="screen shot 2017-05-02 at 8 41 12 pm" src="https://cloud.githubusercontent.com/assets/16007382/25644970/0c57b6c8-2f78-11e7-8954-e82d9a137f81.png">
